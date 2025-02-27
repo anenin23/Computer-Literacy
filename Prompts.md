@@ -36,3 +36,8 @@ PPLX
 
 - 请用英文搜索，回答时翻译为中文
 
+
+
+###### 文章发表
+
+- This article is planned to be submitted to the Journal of Urology; please help check for any critical errors.
