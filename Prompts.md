@@ -1,4 +1,4 @@
-###### 学习英文
+###### 看报
 
 - "Make an extensive summary of this file."
 - "List all scientific findings the author mentioned in this file."
@@ -25,4 +25,14 @@
 - Find Related Papers
 
 
+
+###### 翻译
+
+- ###### 请将下面的内容用中文重写，尊重原意，保持格式不变无删减
+
+
+
+PPLX
+
+- 请用英文搜索，回答时翻译为中文
 
