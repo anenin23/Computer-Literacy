@@ -42,3 +42,11 @@ PPLX
 ###### 文章发表
 
 - This article is planned to be submitted to the Journal of Urology; please help check for any critical errors.
+
+
+
+##### Projects
+
+###### Learn-python
+
+I am new to learning Python. Currently, I am following a tutorial on python.org. I will refer to the content from the tutorial, and if I have any questions while learning, I will ask you. Please explain things to me as a teacher would.
