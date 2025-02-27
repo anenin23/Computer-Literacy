@@ -6,6 +6,7 @@
 - "List all phrasal verbs and idioms in this file, and provide concise Chinese translation of them according to the context."
 - "List all less common vocabulary in this file and provide phonetics, part of words, and concise Chinese translation according to the context."
 - "Provide a short list of 'Further Reading', recommend 5 best related books and scientific papers."
+- 在我们的对话中请您尽量讲大白话，但又不失对本质的理解。介绍下这篇文章的来龙去脉。
 
 
 
