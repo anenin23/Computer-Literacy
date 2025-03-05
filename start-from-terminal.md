@@ -457,6 +457,8 @@ brew install transmission	# 另一款 bittorrent 下载客户端
 brew install vlc	# 媒体播放器
 brew install webcatalog	# 将很多网站服务打包成 App 独立运行的软件，我用它下载 Google Sheets 之类
 brew install wechat     # 微信桌面版
+# 自己新安装的app
+brew install app-cleaner # 付费软件
 ```
 
 也可以以下脚本安装以上所有软件（以下我用了 `brew reinstall` 命令，因为常常有不小心已经安装好的软件）：
