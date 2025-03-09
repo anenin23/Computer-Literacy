@@ -461,6 +461,7 @@ brew install wechat     # 微信桌面版
 brew install app-cleaner # 付费软件, 卸载软件
 brew install jordanbaird-ice # 免费的菜单栏管理
 brew install cleanshot # 付费软件,截图
+brew install --cask hazeover # 付费窗口高亮
 ```
 
 也可以以下脚本安装以上所有软件（以下我用了 `brew reinstall` 命令，因为常常有不小心已经安装好的软件）：
